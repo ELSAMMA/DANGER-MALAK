@@ -25,7 +25,7 @@ const WhatsAsenaDB = config.DATABASE.define('WhatsAsena', {
     value: {
         type: DataTypes.TEXT,
         allowNull: false
-    }
+    }DANGER-MALAK
 });
 
 fs.readdirSync('./plugins/sql/').forEach(plugin => {
