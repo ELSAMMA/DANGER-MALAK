@@ -1,6 +1,6 @@
 <a href="https://bit.ly/3koZRGY"><img src="IMG-20211101-WA0101.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
+        <img src="IMG-20211101-WA0101.png" alt="GIF" width="250" height="200"/>
 </p>
 
 <div align="center">
